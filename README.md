@@ -6,7 +6,7 @@ Have you ever seen a golden jellyfish in your life? The truth is no one ever saw
 -----
 Once you download an app you find yourself in the magical underwater world. Your task is to find golden jellyfish tracing the hints. Be aware that other sea creatures can be both beneficial and harmful to you. The further you go, the more you will learn about this marine universe.
 
-![Image of sea bottom](https://github.com/plusminuscode/golden-jellyfish/blob/master/sea.png)
+![Image of sea bottom](sea.png)
       
 
 ## Sea creatures
@@ -15,7 +15,7 @@ There are three types of sea inhabitants you will meet: **good**, **bad** and **
 
  Among the creatures that you are most likely to meet in the first three rounds are:
  
- ![jelly fish](https://github.com/plusminuscode/golden-jellyfish/blob/master/clipart214628.png)
+ ![jelly fish](clipart214628.png)
 
 * Green jellyfish
 * Pink jellyfish
@@ -23,7 +23,7 @@ There are three types of sea inhabitants you will meet: **good**, **bad** and **
 * Fluffy octopus
 * Curious seahorse
 
-## :ocean: What to look for
+##:ocean:What to look for
 ---
 Try to look for arrows and golden bubbles. These are sure signs of the golden jellyfish mingling around.
 Aside these hints you might find next items useful:

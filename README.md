@@ -15,7 +15,7 @@ There are three types of sea inhabitants you will meet: **good**, **bad** and **
 
  Among the creatures that you are most likely to meet in the first three rounds are:
  
- ![jelly fish](clipart214628.png)
+ <img src="clipart214628.png" width="400" />
 
 * Green jellyfish
 * Pink jellyfish
@@ -23,7 +23,7 @@ There are three types of sea inhabitants you will meet: **good**, **bad** and **
 * Fluffy octopus
 * Curious seahorse
 
-##:ocean:What to look for
+:ocean:What to look for
 ---
 Try to look for arrows and golden bubbles. These are sure signs of the golden jellyfish mingling around.
 Aside these hints you might find next items useful:
